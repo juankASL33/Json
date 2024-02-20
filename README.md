@@ -5,3 +5,4 @@ Enunciados:
 3. Mostrar el nombre de las recetas filtradas por tipo de ingredientes.
 4. Pide el nombre de un ingrediente y devuelve el tipo y las recetas en las que se usa.
 5. Muestra información basica sobre las recetas, elige una y se mostrara toda su información de forma ordenada.
+6. Salir
